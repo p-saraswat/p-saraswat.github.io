@@ -1,11 +1,16 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Priyanka Saraswat # your name (or website title) here
+logo: "/images/Web_dp.png?r" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Analytics & Data Science</a> 
+  <br> 5 years Analytics Experience 
+  <br>
+  <br>
+  MS in Business Analytics (Data Science)</a>  
+  <br> Carlson School of Management
+  <br> University of Minnesota
+  <br>
+  <a href="https://www.linkedin.com/in/addit-anwar/"> 
+  <br> View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
