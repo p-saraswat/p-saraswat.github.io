@@ -2,7 +2,7 @@
 
 ## Data Science and Analytics Projects
 ### [Walmart_Time Series Forecasting for Stores](https://github.com/p-saraswat/Walmart-M5-Forecasting-challange/blob/main/README.md)
-![Walmart M5](https://github.com/p-saraswat/p-saraswat.github.io/blob/master/images/Project%201%20Walmart.jpg)
+![Walmart M5](https://github.com/p-saraswat/Walmart-M5-Forecasting-challange/blob/main/Project%201%20Walmart.jpg)
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
