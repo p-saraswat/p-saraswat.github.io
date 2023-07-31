@@ -16,4 +16,6 @@
 ![image](https://github.com/p-saraswat/p-saraswat.github.io/assets/121529081/22434796-4a86-4e2d-a542-b7220bb1aeb8)
 
 
+### [Digital Marketing Assessment For Bazaar using Causal](https://github.com/p-saraswat/Digital_Marketing_Assement_Bazar/blob/main/README.md)
+![image](https://github.com/p-saraswat/p-saraswat.github.io/assets/121529081/1b33c4dc-b525-4f57-93d0-5b252793f75e)
 
