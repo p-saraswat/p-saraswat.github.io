@@ -6,12 +6,14 @@
 
 
 ### [Mortgage Approval Model using IBM Cloud](https://github.com/p-saraswat/Mortgage-Approval-Prediction-Model-with-IBM-Cloud-Pak/blob/main/Trends%20Marketplace%20Presentation.pdf)
-![Credit Risk Assessment using Random Forest](https://github.com/p-saraswat/Mortgage-Approval-Prediction-Model-with-IBM-Cloud-Pak/blob/main/Project-%20Mortgage%20Approval.jpg)
+![image](https://github.com/p-saraswat/p-saraswat.github.io/assets/121529081/bcb9e4f0-567b-4de6-97aa-b3ed995651a5)
+
 
 ### [Customer Segmentation for XYZ Airlines](https://github.com/p-saraswat/customer_segementation_for_airline/blob/main/README.md)
-![Customer Segmentation for XYZ Airlines](https://github.com/p-saraswat/customer_segementation_for_airline/blob/main/images/Project-Customer%20Segmentation%20Airline.jpg)
+![image](https://github.com/p-saraswat/p-saraswat.github.io/assets/121529081/df9f02e7-864c-44e2-8ca9-7e7ed7c19743)
 
 ### [Breast Cancer Classification](https://github.com/p-saraswat/Breast_Cancer_Classification/blob/main/README.md)
-![Breast Cancer Classification Final Model Recall](https://github.com/p-saraswat/Breast_Cancer_Classification/blob/main/Project%20-%20Breast%20cancer%20classification%20Recall.jpg)
+![image](https://github.com/p-saraswat/p-saraswat.github.io/assets/121529081/22434796-4a86-4e2d-a542-b7220bb1aeb8)
+
 
 
